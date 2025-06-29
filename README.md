@@ -41,8 +41,14 @@ If you want to replicate it:
 
 ## 📸 Screenshots
 
-*![image](https://github.com/user-attachments/assets/f419408a-9956-47ab-9894-d95ea7dd2bba)
-*
+![image](https://github.com/user-attachments/assets/f419408a-9956-47ab-9894-d95ea7dd2bba)
+![image](https://github.com/user-attachments/assets/df4b9cf9-ecf0-4467-8442-c97fc40da71e)
+![image](https://github.com/user-attachments/assets/17cebc77-ea8a-4ab0-ad1f-12f4d1f636b0)
+![image](https://github.com/user-attachments/assets/3c264d7d-fbd3-49af-b6c3-30a2d71753d3)
+
+
+
+
 
 ---
 

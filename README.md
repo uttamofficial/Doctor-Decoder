@@ -41,7 +41,8 @@ If you want to replicate it:
 
 ## 📸 Screenshots
 
-*(Add screenshots of the app here)*
+*![image](https://github.com/user-attachments/assets/f419408a-9956-47ab-9894-d95ea7dd2bba)
+*
 
 ---
 
